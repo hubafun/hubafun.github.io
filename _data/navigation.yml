@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Blog"
+      url: https://www.huba.fun/blog/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
