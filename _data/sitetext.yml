@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: 欢迎来到虎爸资讯!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "服务"
     text: "Lorem ipsum"
     section: services
     list:
@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "[Markdown]"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
@@ -314,8 +314,7 @@ es: &DEFAULT_ES
         icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "虎爸Blog"
+      url: https://www.huba.fun/blog/
     - title: "Services"
       section: services
     - title: "Portfolio"
@@ -23,8 +25,7 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "虎爸Blog"
-      url: https://www.huba.fun/blog/
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -51,7 +52,7 @@ es: &DEFAULT_ES
     - title: "Contáctenos"
       section: contacto
     - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://www.huba.fun/blog/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
